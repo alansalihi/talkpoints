@@ -1,7 +1,7 @@
  
 
-Udacity Alumni Network: "Ask the Expert" with **interviewing.io**
-======================================================================
+Udacity Alumni Network: "Ask the Expert" with interviewing.io
+==============================================================
 
 https://www.youtube.com/watch?v=p_B1_862ZFM
 
